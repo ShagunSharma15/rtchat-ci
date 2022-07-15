@@ -1,1 +1,1 @@
-# rtchat-ci
+# Miniproject
